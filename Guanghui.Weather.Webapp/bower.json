@@ -1,7 +1,0 @@
-{
-  "name": "GuanghuiWeather",
-  "version": "0.0.1",
-  "dependencies": {
-    "angularjs-dropdown-multiselect": "1.5.2"
-  }
-}
