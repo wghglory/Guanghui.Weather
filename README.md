@@ -20,8 +20,12 @@ click "signin", it will redirect to admin page. Of course in a real project this
 
 ## Installation and how to review this demo:
 
-1. run the script "GuanghuiWeather.sql" in APP_Data. I use MSSQL 2012. If there are some errors please make some changes like changing db size, etc.
+I use Visual Studio 2015. You may change project files if using other versions.
+
+1. run the script "GuanghuiWeather.sql" in Guanghui.Weather.Webapp/APP_Data. I use MSSQL 2012. If there are some errors please make some changes like changing db size, etc.
 2. make sure the connection string in web.config works fine since i use local db. Data source=. 
+3. set Guanghui.Weather.Webapp as startup project.
+4. restore nuget packages.
 3. run the project. You should see /Country/Index. If not, please type and see this page.
 4. reviewing the first page. And then you will see a link to navigate to the second page.
 5. details are in every page.
