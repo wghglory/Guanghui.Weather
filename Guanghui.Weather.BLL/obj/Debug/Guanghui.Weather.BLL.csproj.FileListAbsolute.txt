@@ -7,3 +7,12 @@ D:\VS projects\Guanghui.Weather\Guanghui.Weather.BLL\bin\Debug\Guanghui.Weather.
 D:\VS projects\Guanghui.Weather\Guanghui.Weather.BLL\obj\Debug\Guanghui.Weather.BLL.csprojResolveAssemblyReference.cache
 D:\VS projects\Guanghui.Weather\Guanghui.Weather.BLL\obj\Debug\Guanghui.Weather.BLL.dll
 D:\VS projects\Guanghui.Weather\Guanghui.Weather.BLL\obj\Debug\Guanghui.Weather.BLL.pdb
+D:\Github\Guanghui.Weather\Guanghui.Weather.BLL\bin\Debug\Guanghui.Weather.BLL.dll
+D:\Github\Guanghui.Weather\Guanghui.Weather.BLL\bin\Debug\Guanghui.Weather.BLL.pdb
+D:\Github\Guanghui.Weather\Guanghui.Weather.BLL\bin\Debug\Guanghui.Weather.DAL.dll
+D:\Github\Guanghui.Weather\Guanghui.Weather.BLL\bin\Debug\Guanghui.Weather.Model.dll
+D:\Github\Guanghui.Weather\Guanghui.Weather.BLL\bin\Debug\Guanghui.Weather.DAL.pdb
+D:\Github\Guanghui.Weather\Guanghui.Weather.BLL\bin\Debug\Guanghui.Weather.Model.pdb
+D:\Github\Guanghui.Weather\Guanghui.Weather.BLL\obj\Debug\Guanghui.Weather.BLL.csprojResolveAssemblyReference.cache
+D:\Github\Guanghui.Weather\Guanghui.Weather.BLL\obj\Debug\Guanghui.Weather.BLL.dll
+D:\Github\Guanghui.Weather\Guanghui.Weather.BLL\obj\Debug\Guanghui.Weather.BLL.pdb
