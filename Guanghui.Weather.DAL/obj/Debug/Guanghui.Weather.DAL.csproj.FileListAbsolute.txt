@@ -1,0 +1,7 @@
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.DAL\bin\Debug\Guanghui.Weather.DAL.dll
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.DAL\bin\Debug\Guanghui.Weather.DAL.pdb
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.DAL\bin\Debug\Guanghui.Weather.Model.dll
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.DAL\bin\Debug\Guanghui.Weather.Model.pdb
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.DAL\obj\Debug\Guanghui.Weather.DAL.csprojResolveAssemblyReference.cache
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.DAL\obj\Debug\Guanghui.Weather.DAL.dll
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.DAL\obj\Debug\Guanghui.Weather.DAL.pdb

@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "Feature 2: City Count by temperature";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row" ng-controller="cityController">
+
+    <div class="col-md-6">
+        <h4>@Html.ActionLink("Click here to see feature 3 after reviewing current page", "Index", "Admin")</h4>
+        <h2>Type temperature to find cities</h2>
+        <h4>All cities with temperature are loaded without any temperature filter.</h4>
+        <h5>temperature range in database: 253 to 334 K.</h5>
+        <h5>suggested input: 290, 293. Of course you can type other values.</h5>
+        <h5 style="color: red; font-weight: bold;">Note: please input lower and higher following the placeholder.</h5>
+        <input type="number" ng-model="temp.t1" placeholder="lower temperature" />
+        <input type="number" ng-model="temp.t2" placeholder="higher temperature" />
+        <button class="btn-sm btn btn-success" ng-click="getCitiesByTemp(temp.t1,temp.t2)">Find Cities</button>
+
+        <table class="table table-striped table-responsive">
+            <tr><th>Country Name</th><th>City Count within temperature range</th></tr>
+            <tr ng-repeat="co in Countries"><td>{{co.CountryName}}</td><td>{{co.Count}}</td></tr>
+        </table>
+    </div>
+    <div class="col-md-6">
+        <table class="table table-striped table-responsive">
+            <tr><th>Country Name</th><th>City Name</th><th>Temperature</th></tr>
+            <tr ng-repeat="c in Cities"><td>{{c.CountryName}}</td><td>{{c.CityName}}</td><td>{{c.Temperature}}</td></tr>
+        </table>
+    </div>
+</div>
+
+@section scripts{
+    <script src="~/Scripts/Directives/directives.js"></script>
+    <script src="~/Scripts/Filters/filters.js"></script>
+    <script src="~/Scripts/App/app.js"></script>
+    <script src="~/Scripts/Services/cityService.js"></script>
+    <script src="~/Scripts/Controllers/cityController.js"></script>
+}

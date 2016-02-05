@@ -1,0 +1,4 @@
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.Model\bin\Debug\Guanghui.Weather.Model.dll
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.Model\bin\Debug\Guanghui.Weather.Model.pdb
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.Model\obj\Debug\Guanghui.Weather.Model.dll
+D:\VS projects\Guanghui.Weather\Guanghui.Weather.Model\obj\Debug\Guanghui.Weather.Model.pdb

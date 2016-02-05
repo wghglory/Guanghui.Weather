@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guanghui.Weather.Model", "Guanghui.Weather.Model\Guanghui.Weather.Model.csproj", "{A12083AC-05A7-4F8F-A319-8FD9EF3196A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guanghui.Weather.DAL", "Guanghui.Weather.DAL\Guanghui.Weather.DAL.csproj", "{FE58A484-AE23-4DF7-859F-B75D1D9A71DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guanghui.Weather.BLL", "Guanghui.Weather.BLL\Guanghui.Weather.BLL.csproj", "{E59248AC-1D31-45C5-8A9B-70A9CF802081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guanghui.Weather.Webapp", "Guanghui.Weather.Webapp\Guanghui.Weather.Webapp.csproj", "{08C987E1-7944-41ED-9A26-CBD0AB9CD814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guanghui.Weather.Common", "Guanghui.Weather.Common\Guanghui.Weather.Common.csproj", "{CAA6E1B2-EB2C-4556-9184-EC4C3E254DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12083AC-05A7-4F8F-A319-8FD9EF3196A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12083AC-05A7-4F8F-A319-8FD9EF3196A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12083AC-05A7-4F8F-A319-8FD9EF3196A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12083AC-05A7-4F8F-A319-8FD9EF3196A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE58A484-AE23-4DF7-859F-B75D1D9A71DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE58A484-AE23-4DF7-859F-B75D1D9A71DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE58A484-AE23-4DF7-859F-B75D1D9A71DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE58A484-AE23-4DF7-859F-B75D1D9A71DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59248AC-1D31-45C5-8A9B-70A9CF802081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59248AC-1D31-45C5-8A9B-70A9CF802081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59248AC-1D31-45C5-8A9B-70A9CF802081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59248AC-1D31-45C5-8A9B-70A9CF802081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C987E1-7944-41ED-9A26-CBD0AB9CD814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C987E1-7944-41ED-9A26-CBD0AB9CD814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C987E1-7944-41ED-9A26-CBD0AB9CD814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C987E1-7944-41ED-9A26-CBD0AB9CD814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA6E1B2-EB2C-4556-9184-EC4C3E254DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA6E1B2-EB2C-4556-9184-EC4C3E254DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA6E1B2-EB2C-4556-9184-EC4C3E254DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA6E1B2-EB2C-4556-9184-EC4C3E254DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
