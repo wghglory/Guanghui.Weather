@@ -105,3 +105,4 @@ D:\Github\Guanghui.Weather\Guanghui.Weather.Webapp\bin\System.Web.Mvc.xml
 D:\Github\Guanghui.Weather\Guanghui.Weather.Webapp\bin\Guanghui.Weather.DAL.pdb
 D:\Github\Guanghui.Weather\Guanghui.Weather.Webapp\obj\Debug\Guanghui.Weather.Webapp.dll
 D:\Github\Guanghui.Weather\Guanghui.Weather.Webapp\obj\Debug\Guanghui.Weather.Webapp.pdb
+D:\Github\Guanghui.Weather\Guanghui.Weather.Webapp\obj\Debug\Guanghui.Weather.Webapp.csprojResolveAssemblyReference.cache
