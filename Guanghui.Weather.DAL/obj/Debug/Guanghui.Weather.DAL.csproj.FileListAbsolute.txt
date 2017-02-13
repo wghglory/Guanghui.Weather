@@ -12,3 +12,10 @@ D:\Github\Guanghui.Weather\Guanghui.Weather.DAL\bin\Debug\Guanghui.Weather.Model
 D:\Github\Guanghui.Weather\Guanghui.Weather.DAL\obj\Debug\Guanghui.Weather.DAL.csprojResolveAssemblyReference.cache
 D:\Github\Guanghui.Weather\Guanghui.Weather.DAL\obj\Debug\Guanghui.Weather.DAL.dll
 D:\Github\Guanghui.Weather\Guanghui.Weather.DAL\obj\Debug\Guanghui.Weather.DAL.pdb
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.DAL\bin\Debug\Guanghui.Weather.DAL.dll
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.DAL\bin\Debug\Guanghui.Weather.DAL.pdb
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.DAL\bin\Debug\Guanghui.Weather.Model.dll
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.DAL\bin\Debug\Guanghui.Weather.Model.pdb
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.DAL\obj\Debug\Guanghui.Weather.DAL.csprojResolveAssemblyReference.cache
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.DAL\obj\Debug\Guanghui.Weather.DAL.dll
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.DAL\obj\Debug\Guanghui.Weather.DAL.pdb

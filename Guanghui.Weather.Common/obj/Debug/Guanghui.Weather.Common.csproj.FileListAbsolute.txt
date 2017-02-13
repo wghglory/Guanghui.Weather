@@ -7,3 +7,7 @@ D:\Github\Guanghui.Weather\Guanghui.Weather.Common\bin\Debug\Guanghui.Weather.Co
 D:\Github\Guanghui.Weather\Guanghui.Weather.Common\obj\Debug\Guanghui.Weather.Common.dll
 D:\Github\Guanghui.Weather\Guanghui.Weather.Common\obj\Debug\Guanghui.Weather.Common.pdb
 D:\Github\Guanghui.Weather\Guanghui.Weather.Common\obj\Debug\Guanghui.Weather.Common.csprojResolveAssemblyReference.cache
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.Common\bin\Debug\Guanghui.Weather.Common.dll
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.Common\bin\Debug\Guanghui.Weather.Common.pdb
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.Common\obj\Debug\Guanghui.Weather.Common.dll
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.Common\obj\Debug\Guanghui.Weather.Common.pdb

@@ -44,7 +44,7 @@ namespace Guanghui.Weather.DAL
                           Ci.CountryId,
 		                  Ci.Temperature,
 		                  Co.CountryName
-                          FROM [GuanghuiWeather].[dbo].[Cities] Ci
+                          FROM [dbo].[Cities] Ci
                           join Countries Co
                           on Ci.CountryId=Co.CountryId
                           where Ci.[Temperature] between @t1 and @t2

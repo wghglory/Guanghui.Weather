@@ -7,3 +7,7 @@ D:\Github\Guanghui.Weather\Guanghui.Weather.Model\bin\Debug\Guanghui.Weather.Mod
 D:\Github\Guanghui.Weather\Guanghui.Weather.Model\obj\Debug\Guanghui.Weather.Model.dll
 D:\Github\Guanghui.Weather\Guanghui.Weather.Model\obj\Debug\Guanghui.Weather.Model.pdb
 D:\Github\Guanghui.Weather\Guanghui.Weather.Model\obj\Debug\Guanghui.Weather.Model.csprojResolveAssemblyReference.cache
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.Model\bin\Debug\Guanghui.Weather.Model.dll
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.Model\bin\Debug\Guanghui.Weather.Model.pdb
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.Model\obj\Debug\Guanghui.Weather.Model.dll
+C:\Users\xu98826\Downloads\guanghui.Weather-master\Guanghui.Weather.Model\obj\Debug\Guanghui.Weather.Model.pdb

@@ -14,7 +14,7 @@ namespace Guanghui.Weather.DAL
         {
             var list = new List<Country>();
             string sql = @"SELECT Ci.countryid,Co.countryName,avg(Ci.Temperature) Temperature
-                           FROM[GuanghuiWeather].[dbo].[Cities] Ci
+                           FROM [dbo].[Cities] Ci
                            join Countries Co
                            on Ci.CountryId = Co.CountryId
                            group by Ci.CountryId,Co.countryName
